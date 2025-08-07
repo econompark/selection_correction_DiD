@@ -21,5 +21,4 @@ This repository includes:
 
 ## Contact
 
-For questions or feedback, please contact:  
-📧 minchul1352@korea.ac.k
+For questions or feedback, please contact: minchul1352@korea.ac.kr
