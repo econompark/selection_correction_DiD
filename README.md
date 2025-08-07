@@ -10,8 +10,8 @@ This repository provides example code and data accompanying the method introduce
 
 ## Overview
 
-The **selection correction method** is designed for settings where the (conditional) parallel trends assumption is violated due to **unobserved factors**.  
-It builds on standard assumptions from the **sample selection** and **endogenous switching regression** literature.
+The selection correction method is designed for settings where the (conditional) parallel trends assumption is violated due to **unobserved factors**.  
+It builds on standard assumptions from the sample selection and endogenous switching regression literature.
 
 This repository includes:
 - Example datasets  
@@ -22,4 +22,4 @@ This repository includes:
 ## Contact
 
 For questions or feedback, please contact:  
-📧 **minchul1352@korea.ac.kr**
+📧 minchul1352@korea.ac.k
