@@ -14,7 +14,7 @@ The selection correction method is designed for settings where the (conditional)
 It builds on standard assumptions from the sample selection and endogenous switching regression literature.
 
 This repository includes:
-- Example datasets  
+- Example data
 - Sample code for implementation  
 
 ---
