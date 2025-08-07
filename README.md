@@ -1,6 +1,6 @@
 # Example Code and Data for Selection Correction in Staggered Adoption Settings
 
-This repository provides example code and data accompanying the method introduced in the following paper:
+This repository provides example code and data that guide the implementation of the method introduced in the following paper:
 
 > **M. Park** (2025).
 > *"A selection correction method for heterogeneous treatment effects in staggered adoption settings."*  
